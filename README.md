@@ -4,9 +4,11 @@
 
 ## Descrição
 
-Este é um projeto de uma página para cadastro de uma newsletter.
+Este é um projeto de uma página para cadastro de uma newsletter. Ele possui dois designs diferentes, dependendo do dispositivo que está sendo utilizado.
 
 ![Screenshot 2023-08-29 at 21 05 25](https://github.com/eduardobp30/newsletter-sign-up-page/assets/117321152/23919664-ee2c-404d-b057-c4249c914af6)
+
+<img width="421" alt="Screenshot 2023-08-29 at 21 24 09" src="https://github.com/eduardobp30/newsletter-sign-up-page/assets/117321152/66e2abed-6338-4adf-b94d-ed6ad4a5e6bc">
 
 ### Funcionalidades
 
