@@ -1,34 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+🔗 Link para o projeto: https://newsletter-sign-up-page.vercel.app
 
-## Getting Started
+Descrição
 
-First, run the development server:
+Este é um projeto de uma página para cadastro de uma newsletter.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![Screenshot 2023-08-29 at 21 05 25](https://github.com/eduardobp30/newsletter-sign-up-page/assets/117321152/23919664-ee2c-404d-b057-c4249c914af6)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Funcionalidades
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+A tela de cadastro da newsletter possui um campo para preenchimento do e-mail. É feita a verificação se foi inserido um formato de e-mail válido. Em caso negativo, é exibida uma mensagem solicitando a inserção de um e-mail válido.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Screenshot 2023-08-29 at 21 12 32](https://github.com/eduardobp30/newsletter-sign-up-page/assets/117321152/9060b66e-5d5b-4aea-86fd-c10e22a99894)
 
-## Learn More
+Inserindo um e-mail válido e clicando em cadastrar, uma nova tela é aberta com a confirmação do e-mail que foi cadastrado. 
 
-To learn more about Next.js, take a look at the following resources:
+🛠️ Tecnologias utilizadas
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Na construção deste projeto foram utilizadas as seguintes tecnologias:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+HTML
+CSS
+JavaScript
+React
+NextJS
+TailwindCSS
